@@ -31,7 +31,14 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="main.c">
+		<Unit filename="c_files/algorithm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="c_files/head.h" />
+		<Unit filename="c_files/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="c_files/matrix.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions />
