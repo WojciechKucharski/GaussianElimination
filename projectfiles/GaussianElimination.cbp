@@ -41,6 +41,9 @@
 		<Unit filename="c_files/matrix.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="c_files/test_app.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

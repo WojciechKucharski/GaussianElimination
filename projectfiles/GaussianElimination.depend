@@ -1,10 +1,11 @@
 # depslib dependency file v1.0
-1635111979 source:c:\users\wojte\desktop\projects\gaussianelimination\projectfiles\c_files\algorithm.c
-
-1635113465 source:c:\users\wojte\desktop\projects\gaussianelimination\projectfiles\c_files\main.c
+1635170956 source:c:\users\wojte\desktop\projects\gaussianelimination\projectfiles\c_files\algorithm.c
 	"head.h"
 
-1635152492 c:\users\wojte\desktop\projects\gaussianelimination\projectfiles\c_files\head.h
+1635193399 source:c:\users\wojte\desktop\projects\gaussianelimination\projectfiles\c_files\main.c
+	"head.h"
+
+1635191432 c:\users\wojte\desktop\projects\gaussianelimination\projectfiles\c_files\head.h
 	<stdio.h>
 	<stdlib.h>
 	<stdbool.h>
@@ -13,6 +14,10 @@
 1635114388 source:c:\users\wojte\desktop\projects\gaussianelimination\projectfiles\c_files\menu.c
 	"head.h"
 
-1635114399 source:c:\users\wojte\desktop\projects\gaussianelimination\projectfiles\c_files\matrix.c
+1635193485 source:c:\users\wojte\desktop\projects\gaussianelimination\projectfiles\c_files\matrix.c
+	"head.h"
+
+1635193245 source:c:\users\wojte\desktop\projects\gaussianelimination\projectfiles\c_files\test_app.c
+	<assert.h>
 	"head.h"
 
